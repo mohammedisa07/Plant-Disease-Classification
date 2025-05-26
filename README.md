@@ -47,6 +47,6 @@ To ensure easy deployment and platform independence, the entire application was 
 
 ---
 
-💬 *Excited to continue exploring AI for agriculture and computer vision for real-world impact. Let’s connect if you’re working on similar problems or want to collaborate!*
+
 
 
